@@ -11,7 +11,7 @@ Preferred communication style: Simple, everyday language.
 ## System Architecture
 
 ### Technology Stack
-- **Language**: Rust (2021 edition)
+- **Language**: Rust
 - **HTTP Framework**: Axum 0.7 (async web framework)
 - **Runtime**: Tokio 1.0 (async runtime)
 - **Serialization**: Serde 1.0 with JSON support
